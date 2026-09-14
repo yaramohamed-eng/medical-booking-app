@@ -1,0 +1,71 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Dr. Sarah Ahmed",
+      "specialty": "Cardiology",
+      "image": "https://i.pravatar.cc/300?img=47",
+      "bio": "Dr. Sarah Ahmed has over 12 years of experience treating heart conditions, specializing in preventive cardiology and echocardiography.",
+      "days": ["Sunday", "Tuesday", "Thursday"],
+      "slots": ["09:00", "10:00", "11:00", "14:00"]
+    },
+    {
+      "id": "2",
+      "name": "Dr. Omar Khalil",
+      "specialty": "Dermatology",
+      "image": "https://i.pravatar.cc/300?img=12",
+      "bio": "Dr. Omar Khalil focuses on skin health, acne treatment, and cosmetic dermatology with a patient-first approach.",
+      "days": ["Monday", "Wednesday", "Sunday"],
+      "slots": ["09:30", "11:30", "13:00", "15:30"]
+    },
+    {
+      "id": "3",
+      "name": "Dr. Laila Hassan",
+      "specialty": "Pediatrics",
+      "image": "https://i.pravatar.cc/300?img=32",
+      "bio": "Dr. Laila Hassan has dedicated her career to children's health, from newborn checkups to adolescent care.",
+      "days": ["Sunday", "Monday", "Wednesday"],
+      "slots": ["08:00", "09:00", "10:30", "12:00"]
+    },
+    {
+      "id": "4",
+      "name": "Dr. Youssef Ibrahim",
+      "specialty": "Orthopedics",
+      "image": "https://i.pravatar.cc/300?img=53",
+      "bio": "Dr. Youssef Ibrahim specializes in sports injuries, joint replacement, and physical rehabilitation.",
+      "days": ["Tuesday", "Thursday", "Saturday"],
+      "slots": ["10:00", "11:00", "13:30", "16:00"]
+    },
+    {
+      "id": "5",
+      "name": "Dr. Mona Fathy",
+      "specialty": "Dentistry",
+      "image": "https://i.pravatar.cc/300?img=25",
+      "bio": "Dr. Mona Fathy provides general and cosmetic dentistry with a gentle approach for anxious patients.",
+      "days": ["Monday", "Wednesday", "Friday"],
+      "slots": ["09:00", "10:00", "12:00", "17:00"]
+    },
+    {
+      "id": "6",
+      "name": "Dr. Karim Adel",
+      "specialty": "Cardiology",
+      "image": "https://i.pravatar.cc/300?img=14",
+      "bio": "Dr. Karim Adel is an interventional cardiologist experienced in catheterization and heart disease management.",
+      "days": ["Sunday", "Wednesday", "Thursday"],
+      "slots": ["08:30", "09:30", "14:00", "15:00"]
+    }
+  ],
+  "appointments": [
+    {
+      "id": "101",
+      "doctorId": "1",
+      "patientName": "Ahmed Mostafa",
+      "email": "ahmed.mostafa@example.com",
+      "phone": "01012345678",
+      "date": "2026-09-20",
+      "time": "10:00",
+      "note": "Follow-up checkup for blood pressure.",
+      "insuranceNumber": "INS-88213"
+    }
+  ]
+}
