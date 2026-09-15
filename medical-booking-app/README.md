@@ -4,6 +4,12 @@ A small medical appointment booking application built with React, React Router,
 Zustand, Axios, and React Hook Form — a training project simulating the experience
 of one patient using a booking service.
 
+## Live Demo
+
+🔗 [medical-booking-app-five.vercel.app](https://medical-booking-app-five.vercel.app)
+
+> Note: Doctors and appointments data is served live via [my-json-server](https://my-json-server.typicode.com), based on this repo's db.json. Booking/editing/deleting works but changes are not permanently saved (per my-json-server's free tier).
+
 ## Tech Stack
 
 - **React** + **Vite**
