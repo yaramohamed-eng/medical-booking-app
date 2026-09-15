@@ -1,3 +1,14 @@
+<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/4951eefe-532c-45f7-9c9e-b376451c2a97" />
+<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/4736e04a-87c9-4f21-adff-5f0490f47480" />
+<img width="1366" height="768" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/03f7b19e-4071-4f37-af35-caddb481010b" />
+<img width="1366" height="768" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/d5a70e25-f6a5-492b-8b79-e0766d283718" />
+<img width="1366" height="768" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/3e4948cd-5d2e-417c-9711-1bba8d1d3b76" />
+<img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/9e87f4d3-4cde-4e45-bbd4-f8f9bceb4eac" />
+<img width="1366" height="768" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/78f12ff2-b8c4-4a68-a02b-48ab684ba7da" />
+<img width="1366" height="768" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/0b90d249-5e42-4194-a80f-ebf7de4696df" />
+<img width="1366" height="768" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/e6e3a326-d4bb-447e-a46b-44a216fad321" />
+<img width="1366" height="768" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/c4d045b5-3557-4e04-8ee4-d1c3a12bde86" />
+<img width="1366" height="768" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/b15d60ad-32b8-4fc1-8ab0-5785d1341420" />
 # MediCare Booking App
 
 A small medical appointment booking application built with React, React Router,
