@@ -2,7 +2,7 @@ import axios from 'axios'
 
 // json-server runs on port 3001 (see package.json "server" script)
 const api = axios.create({
-  baseURL: 'http://localhost:3001',
+  baseURL: 'https://my-json-server.typicode.com/yaramohamed-eng/medical-booking-app',
   timeout: 8000,
 })
 
